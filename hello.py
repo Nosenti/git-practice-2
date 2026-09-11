@@ -8,3 +8,5 @@ def h(a, b):
         if x < 1600:
             m = m + 1
     return n - m
+
+#I think that the code is pretty good, from here we can work on improving and adding on some stuff
